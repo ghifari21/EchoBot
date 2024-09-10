@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.gosty.echobot" />
+                  <option name="mobileSdkAppId" value="1:99224879964:android:de9cde1306f2a024833799" />
+                  <option name="projectId" value="echobot-edcba" />
+                  <option name="projectNumber" value="99224879964" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
