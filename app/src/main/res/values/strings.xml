@@ -9,4 +9,6 @@
     <string name="image3_description">Cake</string>
     <string name="results_placeholder">(Results will appear here)</string>
     <string name="home">Home</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
