@@ -1,4 +1,4 @@
-package com.gosty.echobot
+package com.gosty.echobot.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background,
                 ) {
-                    BakingScreen()
+                    EchoBotApp()
                 }
             }
         }
